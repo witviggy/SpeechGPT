@@ -18,3 +18,4 @@ The project's architecture showcases the integration of different AI technologie
 Furthermore, the integration with OpenAI's language model adds a creative aspect to the system. By generating stories based on the identified objects, the system fosters imagination and storytelling, making it an engaging tool for children and users of all ages.
 
 In conclusion, the Raspberry Pi-based project demonstrates the fusion of speech recognition, object detection, and natural language processing technologies. It showcases the potential of combining these AI capabilities to create interactive and intelligent systems. With its voice-controlled object detection and story generation features, the project offers a glimpse into the exciting possibilities of AI integration in everyday life.
+
