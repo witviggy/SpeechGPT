@@ -6,7 +6,7 @@ from pydub.playback import play
 import pyttsx3
 import time
 
-apikey = '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'
+apikey = 'PASTE YOUR OPENAI API KEY HERE'
 openai.api_key = apikey
 model = 'text-davinci-003'
 engine = pyttsx3.init()
