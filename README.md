@@ -1,5 +1,4 @@
 # SpeechGPT
-The Raspberry Pi-based project combines speech recognition and object detection capabilities to create an interactive system with various applications. By utilizing the power of machine learning and artificial intelligence, the project demonstrates the seamless integration of these technologies.
 
 The system utilizes the Raspberry Pi 4 Model B, a versatile single-board computer known for its computational power and connectivity options. The Raspberry Pi serves as the core hardware platform for running the project's software components.
 
