@@ -18,3 +18,4 @@ Furthermore, the integration with OpenAI's language model adds a creative aspect
 
 In conclusion, the Raspberry Pi-based project demonstrates the fusion of speech recognition, object detection, and natural language processing technologies. It showcases the potential of combining these AI capabilities to create interactive and intelligent systems. With its voice-controlled object detection and story generation features, the project offers a glimpse into the exciting possibilities of AI integration in everyday life.
 
+ALL THE BEST!!!
